@@ -1,0 +1,5 @@
+"name": "Undyne",
+		"description": "Makes garbage dumps <b>twice</b> as efficient.",
+		"ftext": "An Undyne to visit the garbage dump with Alphys.",
+		"upgrades": ["garbage_dump"],
+"bought": true
